@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuillermoAu
 - 👀 I’m interested in ... Learning development software
-- 🌱 I’m currently learning ... Development web
+- 🌱 I’m currently learning ... Web Development 
 - 💞️ I’m looking to collaborate on ... All teams
 - 📫 How to reach me ...Senior 
 
